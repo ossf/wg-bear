@@ -4,9 +4,9 @@ Welcome! We're excited that you're interested in contributing to the Belonging, 
 
 ## How to Connect with Us
 
-- **Public Calendar:** Stay informed about our meetings, events, and activities by checking our [public calendar](#https://calendar.google.com/calendar/u/0/r?cid=czYzdm9lZmhwNWk5cGZsdGI1cTY3bmdwZXNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ).
+- **Public Calendar:** Stay informed about our meetings, events, and activities by checking our [public calendar](https://openssf.org/calendar).
 
-- **Slack Channel:** Join the conversation on our #wg-bear [OpenSSF Slack channel](#https://openssf.slack.com/join/shared_invite/zt-2sa4ub3pw-TKfiwHzTINSQY4ZSunhnSw#/shared-invite/email). This is the best place to ask questions, share ideas, and collaborate.
+- **Slack Channel:** Join the conversation on our #wg-bear [OpenSSF Slack channel](https://openssf.slack.com/archives/C068TF7AH0U). This is the best place to ask questions, share ideas, and collaborate.
 
 ## How to Contribute
 
@@ -14,13 +14,13 @@ We value all contributions, from improving documentation to participating in dis
 
 ### 1. Participate in Discussions
 
-- Join our #wg-bear channel via the [OpenSSF Slack channel](#https://openssf.slack.com/join/shared_invite/zt-2sa4ub3pw-TKfiwHzTINSQY4ZSunhnSw#/shared-invite/email).
+- Join our #wg-bear channel via the [OpenSSF Slack channel](https://openssf.slack.com/archives/C068TF7AH0U).
 
 - Attend working group meetings listed on the public calendar.
 
 ### 2. Report Issues or Suggest Enhancements
 
-- Use the [GitHub Issues](https://github.com/ossf/wg-dei/issues) tab to report problems or suggest ideas.
+- Use the [GitHub Issues](https://github.com/ossf/wg-bear/issues) tab to report problems or suggest ideas.
 - Follow our issue template to provide clear and detailed information.
 
 ### 3. Submit Pull Requests
@@ -47,6 +47,6 @@ We are committed to maintaining a welcoming, inclusive, and respectful environme
 - **Be Collaborative:** Work together to solve problems and build new initiatives.
 - **Be Open:** Share your knowledge and be open to learning from others.
 
-We’re excited to collaborate with you and appreciate your support in advancing DEI in open source cybersecurity!
+We’re excited to collaborate with you and appreciate your support in advancing open source cybersecurity!
 
 For any questions or additional guidance, contact us through Slack or during our working group meetings. Let's build a better, more inclusive cybersecurity community together!

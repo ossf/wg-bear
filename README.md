@@ -37,13 +37,9 @@ Every 2 weeks, Tuesday 11am EST. The meeting invite is available on the [public 
 
 ### Special Interest Groups
 
-#### Open Source & Security Africa (OSSAfrica)
+#### OpenSSF Africa
 
-Focused on open source collaboration and software security across Africa.
-
-* **Leads**: [Prince Oforh Asiedu](https://github.com/PrinceAsiedu), [Seth Mensah](https://github.com/iamcerebrocerberus), [Aaron Will Djaba](https://github.com/kurtiz)
-* **Governing Body**: OpenSSF BEAR Working Group
-* **Resources**: [GitHub Organization](https://github.com/OSSAfrica)
+Coming soon!
 
 ### Roadmap
 
